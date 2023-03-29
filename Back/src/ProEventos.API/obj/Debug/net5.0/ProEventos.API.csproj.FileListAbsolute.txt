@@ -55,3 +55,9 @@ D:\temp\projetosVSCode\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runti
 D:\temp\projetosVSCode\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\temp\projetosVSCode\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\temp\projetosVSCode\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\temp\projetosVSCode\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.dll
+D:\temp\projetosVSCode\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.dll
+D:\temp\projetosVSCode\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.dll
+D:\temp\projetosVSCode\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
+D:\temp\projetosVSCode\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.pdb
+D:\temp\projetosVSCode\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.pdb
